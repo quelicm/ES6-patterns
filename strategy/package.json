@@ -1,0 +1,22 @@
+{
+  "name": "strategy_sample",
+  "version": "0.0.1",
+  "description": "Example of the strategy pattern in ES6",
+  "main": "index.js",
+  "author": "Queli <quelicm@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "webpack": "webpack"
+  },
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "eslint": "^3.7.1",
+    "eslint-plugin-import": "latest",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
